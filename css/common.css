@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body {
+    background-color: rgb(99, 95, 96);
+    /* background-image: url('../images/1.jpg') */
+}
